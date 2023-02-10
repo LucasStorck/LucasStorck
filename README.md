@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Storck 👋
 
-- 🌱 Estudante de Python
+- 🌱 Estudante de C | HTML | CSS | JS | React
 - 📫 Contate-me no E-mail: lucasstorck@icloud.com
 
 <div>
