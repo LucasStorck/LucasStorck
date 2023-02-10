@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Storck 👋
 
-- 🌱 Estudante de C | HTML | CSS | JS | React
-- 📫 Contate-me no E-mail: lucasstorck@icloud.com
+- Estudante de C | HTML | CSS | JS | React
+- Contate-me no E-mail: lucasstorck@icloud.com
 
 <div>
   <a href="https://github.com/lucasstorck">
