@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Lucas Storck 👋
 
+- Estudante de Sistema de Informação
+- C# | .NET
+  
 <div>
   <a href="https://github.com/lucasstorck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasstorck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
