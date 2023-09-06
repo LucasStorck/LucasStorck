@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Lucas Storck 👋
-- Contate-me no E-mail: lucasstorck@icloud.com
 
 <div>
   <a href="https://github.com/lucasstorck">
