@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Lucas Storck 👋
 
 - Estudante de Sistema de Informação
-- C# | .NET
   
 <div>
   <a href="https://github.com/lucasstorck">
