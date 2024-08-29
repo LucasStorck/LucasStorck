@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Storck! 👋
 
 - Estudante de Sistemas de Informação
-- React Native, JavaScript, Expo
+- React, JavaScript, TypeScript Tailwind
 
 <div>
   <a href="https://github.com/LucasStorck"></a>
