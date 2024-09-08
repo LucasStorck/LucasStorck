@@ -1,13 +1,6 @@
 - Estudante de Sistemas de Informação
 - HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 
-<div>
-  <a href="https://github.com/LucasStorck"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasStorck&show_icons=true&theme=dark&"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStorck&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStorck&layout=compact&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
