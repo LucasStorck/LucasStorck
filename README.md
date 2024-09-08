@@ -1,5 +1,3 @@
-### Olá! Eu sou o Lucas Storck! 👋
-
 - Estudante de Sistemas de Informação
 - HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 
