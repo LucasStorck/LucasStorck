@@ -1,6 +1,6 @@
 - Estudante de Sistemas de Informação
 - Desenvolvedor Backend
-- Java, Spring, Docker, Swagger
+- Java, Spring, PostgreSQL, Docker, Swagger
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
