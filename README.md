@@ -1,6 +1,6 @@
 # Lucas Storck
 
-- Estudante de Sistemas de Informação (6/8)
+- Estudante de Sistemas de Informação
 - Desenvolvedor Backend
 
 ##
