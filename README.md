@@ -1,7 +1,7 @@
 # Lucas Storck
 
 - Estudante de Sistemas de Informação
-- Desenvolvedor Backend
+- Estagiário de DevOps
 
 ##
 
