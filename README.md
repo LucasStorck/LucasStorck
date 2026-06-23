@@ -1,7 +1,7 @@
 # Lucas Storck
 
 - Estudante de Sistemas de Informação
-- Estagiário de Análise de Sistemas na Prefeitura de Niterói
+- Estagiário de Desenvolvimento Backend na Prefeitura de Niterói
 
 ##
 
