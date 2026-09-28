@@ -5,14 +5,17 @@
 
 ##
 
+## Projetos em Destaque
+
+- **[ecommerce-microservices](https://github.com/LucasStorck/ecommerce-microservices)** — backend de e-commerce em microsserviços: Eureka, Gateway MVC, Kafka, Resilience4j, Liquibase, PostgreSQL e MongoDB.
+- **[authentication-service](https://github.com/LucasStorck/authentication-service)** — API de autenticação/autorização standalone com Spring Security, JWT assinado com par de chaves RSA, refresh token e RBAC.
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-%23f5f5f5.svg?style=for-the-badge&logo=junit5&logoColor=dc524a)
 
 ##
 
