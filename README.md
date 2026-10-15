@@ -1,14 +1,14 @@
 # Lucas Storck
 
-- Estudante de Sistemas de Informação (7/8) na Universidade LaSalle
-- Estagiário de Desenvolvimento Backend na Prefeitura de Niterói
+- Information Systems student (7/8) at Universidade LaSalle
+- Backend Development Intern at Niterói City Hall (Prefeitura de Niterói)
 
 ##
 
-## Projetos em Destaque
+## Featured Projects
 
-- **[ecommerce-microservices](https://github.com/LucasStorck/ecommerce-microservices)** — backend de e-commerce em microsserviços: Eureka, Gateway MVC, Kafka, Resilience4j, Liquibase, PostgreSQL e MongoDB.
-- **[authentication-service](https://github.com/LucasStorck/authentication-service)** — API de autenticação/autorização standalone com Spring Security, JWT assinado com par de chaves RSA, refresh token e RBAC.
+- **[ecommerce-microservices](https://github.com/LucasStorck/ecommerce-microservices)** — e-commerce backend built as microservices: Eureka, Gateway MVC, Kafka, Resilience4j, Liquibase, PostgreSQL and MongoDB.
+- **[authentication-service](https://github.com/LucasStorck/authentication-service)** — standalone authentication/authorization API with Spring Security, JWTs signed with an RSA key pair, refresh tokens and RBAC.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
