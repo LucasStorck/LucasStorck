@@ -17,7 +17,6 @@
 - **Backend:** Spring Boot, Spring Security, Spring Cloud, REST APIs, Swagger/OpenAPI
 - **Data & messaging:** PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, Liquibase
 - **Tools:** Git, Docker, CI/CD, JUnit
-- **Practices:** Scrum, pull requests and code review, technical documentation
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
