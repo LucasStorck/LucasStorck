@@ -7,7 +7,7 @@
 
 ## Featured Projects
 
-- **[ecommerce-microservices](https://github.com/LucasStorck/ecommerce-microservices)** — e-commerce backend microservices: Eureka, Gateway MVC, Kafka, Resilience4j, Liquibase, PostgreSQL and MongoDB.
+- **[ecommerce-microservices](https://github.com/LucasStorck/ecommerce-microservices)** — e-commerce backend microservices: Eureka, Gateway MVC, Kafka, Liquibase, PostgreSQL and MongoDB.
 - **[authentication-service](https://github.com/LucasStorck/authentication-service)** — standalone authentication/authorization API with Spring Security, OAuth2 and JWT.
 - **[url-shortener](https://github.com/LucasStorck/url-shortener)** — URL shortener with click metrics, built with Java, Spring Boot, PostgreSQL, Redis and Observability.
 
