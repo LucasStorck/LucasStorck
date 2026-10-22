@@ -11,13 +11,6 @@
 - **[authentication-service](https://github.com/LucasStorck/authentication-service)** — standalone authentication/authorization API with Spring Security, JWTs signed with an RSA key pair, refresh tokens and RBAC.
 - **[url-shortener](https://github.com/LucasStorck/url-shortener)** — URL shortener with click metrics, built with Java, Spring Boot, PostgreSQL and Redis.
 
-## Tech Stack
-
-- **Languages:** Java
-- **Backend:** Spring Boot, Spring Security, Spring Cloud, REST APIs, Swagger/OpenAPI
-- **Data & messaging:** PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, Liquibase
-- **Tools:** Git, Docker, CI/CD, JUnit
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
